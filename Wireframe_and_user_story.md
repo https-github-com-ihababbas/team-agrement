@@ -7,7 +7,7 @@
  - Feature Tasks:
   add al-hegry date 
 
-![praytime](praytime.jpg)
+![praytime](pray_page.png)
 - Title Praytime 
 - User Story sentence
   In ths page the user will see a table with 30 row that has 5 culomes for the five pray of the date on index location
